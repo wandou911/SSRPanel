@@ -142,7 +142,7 @@
                                                                     <div class="col-xs-3 text-right mobile-padding">
                                                                         <i class="icon-bar-chart"></i>
                                                                     </div>
-                                                                    <div class="col-xs-9 text-left mobile-padding">内含流量：{{$goods->traffic_label}}</div>
+                                                                    <div class="col-xs-9 text-left mobile-padding">每月流量：{{$goods->traffic_label}}</div>
                                                                 </div>
                                                                 <div class="row mobile-padding">
                                                                     <div class="col-xs-3 text-right mobile-padding">
